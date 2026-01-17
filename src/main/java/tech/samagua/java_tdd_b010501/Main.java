@@ -1,4 +1,4 @@
-package tech.samagua;
+package tech.samagua.java_tdd_b010501;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
